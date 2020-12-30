@@ -18,3 +18,4 @@ Data Limitations
 •	Number of infected by covid-19 people from vulnerable population category was not found on public websites.
 Results and Insights
 The data shows that mortality rates have remained unchanged in the same states in recent months, which means that future months will also remain unchanged. Since the data is consistent, it can help to count the number of ICU beds needed for the hospitals.
+Tableau Storyboard https://public.tableau.com/profile/bella3699#!/vizhome/USCovid-192020Storyboard/Story1?publish=yes
